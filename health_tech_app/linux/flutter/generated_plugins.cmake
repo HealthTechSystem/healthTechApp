@@ -3,6 +3,8 @@
 #
 
 list(APPEND FLUTTER_PLUGIN_LIST
+  ddt
+  encrypter
 )
 
 list(APPEND FLUTTER_FFI_PLUGIN_LIST
